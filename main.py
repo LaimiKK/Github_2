@@ -11,6 +11,6 @@ print("Mans vārds ir Laura")
 print("Mans vārds ir Laimonis")
 print("Pievienoju jaunu vārdu")
 print("Tikko pievienoju jaunu ieraksru")
-
+print("nezinu vai sanāk")
 
 
